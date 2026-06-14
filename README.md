@@ -1,6 +1,6 @@
 # Market Regime Detection and Dynamic Portfolio Allocation
 
-## Overview
+## Overview 
 
 This project explores whether financial market environments can be grouped into distinct **market regimes** and whether those regimes can be used to improve **portfolio allocation decisions**.
 
